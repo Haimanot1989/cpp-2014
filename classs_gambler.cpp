@@ -40,5 +40,5 @@ bool gambler::ready(){
 
 void gambler::joinGame(game& g){
 	//g.gamblers.push_back(gambler(firstName, lastName));
-	readyToPlay = true;
+	readyToPlay = false; //gambler has joined a game
 }

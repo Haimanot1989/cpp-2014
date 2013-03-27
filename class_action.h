@@ -9,6 +9,8 @@ namespace casino{
     gameType t;
   public:
     virtual void print()=0;
+	gameType getGameType();
+	void setGameType(gameType);
   };
 
 }

@@ -1,0 +1,6 @@
+- `ticTakToeBoard` klasse:
+	- ansvarlig for å lage tre eller fire på rad brettet og printe det. brette har arealet `rad*rad`
+	- ...
+- Jeg la til accesors i abstract klassen `action` i filen `class:action.h`slik at jeg kan endre og få tak i gametype.
+- ...
+- 
