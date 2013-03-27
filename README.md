@@ -1,11 +1,11 @@
 cpp_tic-tac-toe
 ===============
 
-2. Tre og Fire på rad i casino-rammeverket
+oppgave 2 Tre og Fire på rad i casino-rammeverket
 
 
-Oppgave tekst
-Denne oppgaven passer for de som i prinsippet likte å jobbe med casino-rammeverket fra oblig 1, men som så hvordan det kunne vært gjort bedre. Velger du denne oppgaven skal du ta utgangpsunkt i det rammeverket, og følgende krav gjelder:
+    Oppgave tekst
+    Denne oppgaven passer for de som i prinsippet likte å jobbe med casino-rammeverket fra oblig 1, men som så hvordan det kunne vært gjort bedre. Velger du denne oppgaven skal du ta utgangpsunkt i det rammeverket, og følgende krav gjelder:
 
     Du skal implementere 3-på-rad, og fire-på-rad, menneske mot maskin. Du velger selv om begge spillene skal være en og samme strategi, der tre eller fire er gyldige verdier til konstruktor, eller om det er to separate klasser.
 
