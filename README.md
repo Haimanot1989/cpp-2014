@@ -2,6 +2,8 @@ cpp_tic-tac-toe
 ===============
 
 2. Tre og Fire på rad i casino-rammeverket
+
+
 Oppgave tekst
 Denne oppgaven passer for de som i prinsippet likte å jobbe med casino-rammeverket fra oblig 1, men som så hvordan det kunne vært gjort bedre. Velger du denne oppgaven skal du ta utgangpsunkt i det rammeverket, og følgende krav gjelder:
 
