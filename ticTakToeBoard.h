@@ -1,5 +1,5 @@
-#ifndef CLASS_ticTackToeBoard_H
-#define CLASS_ticTackToeBoard_H
+#ifndef CLASS_TICTAKTOEBOARD_H
+#define CLASS_TICTAKTOEBOARD_H
 
 namespace casino{
 	class board{

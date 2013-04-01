@@ -2,7 +2,7 @@
 #define GAMETYPES_H
 
 namespace casino{
-  typedef enum{blackjack, poker, chess, roulette} gameType;
+  typedef enum{blackjack, poker, chess, roulette, ticTakToe} gameType;
 }
 
 #endif
