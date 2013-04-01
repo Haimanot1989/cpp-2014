@@ -15,4 +15,5 @@ ticTakToeState::ticTakToeState(vector<vector<unsigned int> > newPositionv, int n
 }
 
 void ticTakToeState::print(){
+
 }

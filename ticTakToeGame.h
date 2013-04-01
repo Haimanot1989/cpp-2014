@@ -1,5 +1,5 @@
-#ifndef CLASS_TICTAKTOEGAME.H
-#define CLASS_TICTAKTOEGAME.H
+//#ifndef TICTAKTOEGAME.H
+//#define TICTAKTOEGAME.H
 
 #include "class_game.h"
 
@@ -11,4 +11,4 @@ namespace casino{
 		virtual void start();
 	};
 }
-#endif
+//#endif

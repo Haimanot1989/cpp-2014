@@ -1,5 +1,5 @@
-#ifndef CLASS_TICTAKTOESTATE.H
-#define CLASS_TICTAKTOESTATE.H
+//#ifndef TICTAKTOESTATE.H
+//#define TICTAKTOESTATE.H
 #include "class_gameState.h"
 
 namespace casino{
@@ -42,4 +42,4 @@ namespace casino{
 
 	};
 }
-#endif
+//#endif
